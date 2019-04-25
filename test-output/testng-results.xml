@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[hiiiii]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="312" started-at="2019-04-25T03:12:48Z" finished-at="2019-04-25T03:12:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="312" started-at="2019-04-25T03:12:48Z" finished-at="2019-04-25T03:12:48Z">
+      <class name="com.mavenDemo.tests.DemoTest">
+        <test-method status="PASS" signature="testA()[pri:0, instance:com.mavenDemo.tests.DemoTest@18355a8]" name="testA" duration-ms="62" started-at="2019-04-25T03:12:48Z" finished-at="2019-04-25T03:12:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[hiiiii]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- com.mavenDemo.tests.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
