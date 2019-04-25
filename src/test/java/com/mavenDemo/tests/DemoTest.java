@@ -10,5 +10,6 @@ public class DemoTest
 	{
 		Reporter.log("hiiiii....",true);
 		Reporter.log("hello...",true);
+		Reporter.log("byeee...",true);
 	}
 }
